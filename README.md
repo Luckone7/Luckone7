@@ -1,8 +1,6 @@
-<!-- Header -->
+<!-- Header SVG — guardado como assets/header.svg en tu repo -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,6366f1&height=180&section=header&text=Hey,%20I'm%20Lucas%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Analyst%20%26%20Full-Stack%20Developer%20·%20Building%20from%20Patagonia&descAlignY=58&descSize=16&descColor=94a3b8" />
-
+  <img src="./assets/header.svg" width="100%" alt="Lucas — Software Analyst & Full-Stack Developer" />
 </div>
 
 ---
@@ -70,7 +68,6 @@ I build **mobile apps and web platforms** that solve real-world problems — fro
 - Social impact apps
 - Mental health & wellness projects
 - Startup MVPs and rapid prototyping
-- Anything with real business potential
 
 ---
 
@@ -78,10 +75,4 @@ I build **mobile apps and web platforms** that solve real-world problems — fro
 
 [![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas.icm/)
-[![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.cerdamartinovic@gmail.com)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,6366f1&height=100&section=footer" />
-</div>
+[![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
