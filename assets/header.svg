@@ -1,0 +1,23 @@
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e2e8f0"/>
+      <stop offset="50%" style="stop-color:#38bdf8"/>
+      <stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="160" rx="12" fill="url(#bg)"/>
+  <!-- decorative circles -->
+  <circle cx="780" cy="30" r="90" fill="#38bdf8" fill-opacity="0.06"/>
+  <circle cx="120" cy="140" r="70" fill="#818cf8" fill-opacity="0.06"/>
+  <!-- greeting -->
+  <text x="40" y="52" font-family="monospace" font-size="13" fill="#64748b" letter-spacing="2">HEY THERE 👋</text>
+  <!-- name -->
+  <text x="40" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="url(#textgrad)">I'm Lucas</text>
+  <!-- subtitle -->
+  <text x="42" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#94a3b8">Software Analyst &amp; Full-Stack Developer · Building from Patagonia 🏔️</text>
+</svg>
