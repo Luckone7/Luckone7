@@ -21,7 +21,7 @@ I build **mobile apps and web platforms** that solve real-world problems — fro
 | Project | Stack | Status |
 |---|---|---|
 | **Aluria** — AI-powered mental wellness app | Flutter · Firebase · OpenAI | 🟢 Active |
-| **Servizly** — SaaS for custom-order businesses | Vue.js · Supabase | 🟢 Active |
+| **Servizly** — SaaS for custom-order businesses | Next.js · Supabase | 🟢 Active |
 | **PetSocial** — Pet-focused social network | React Native · Supabase | ✅ MVP shipped |
 
 ---
